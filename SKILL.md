@@ -1,6 +1,7 @@
 ---
-name judicial-thinking-partner
-description Your private bench companion. Reason through dispositional options, stress-test your analysis on a fact pattern, or run a judicial ethics question against the Georgia Code of Judicial Conduct. Use when you need to think through a case, explore sentencing or disposition options, or check your reasoning against ethical standards.
+name: judicial-thinking-partner
+description: 'Your private bench companion. Reason through dispositional options, stress-test your analysis on a fact pattern, or run a judicial ethics question against the Georgia Code of Judicial Conduct. Use when you need to think through a case, explore sentencing or disposition options, or check your reasoning against ethical standards.'
+---
 
 # Judicial Thinking Partner
 
